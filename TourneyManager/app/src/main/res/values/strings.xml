@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Tourney Manager</string>
+    <string name="content_authority">edu.gatech.seclass.tourneymanager.app</string>
+
+    <string name="tournament_setup">Tournament Setup</string>
+    <string name="login_manager">You are logged in as a Manager!</string>
+    <string name="start_a_tournament">Start a Tournament</string>
+    <string name="view_past_profits">View Past Profits</string>
+    <string name="view_player_totals">View Player Totals</string>
+    <string name="create_players">Create Players</string>
+    <string name="add_player_totournament">Add Player to Tournament</string>
+    <string name="player_list">Player List</string>
+    <string name="remove_player">Remove Player</string>
+    <string name="start_tournament">Start Tournament</string>
+
+    <!-- Base Activities -->
+    <string name="player_login">Logged In As: Player</string>
+    <string name="manager_login">Logged In As: Manager</string>
+
+    <!-- Welcome Screen -->
+    <string name="select_mode_label">Select the gaming mode!</string>
+
+    <!-- Player Match List -->
+    <string name="active_matches">Active Matches</string>
+
+    <!-- Manager Match List -->
+    <string name="cancel_tournament">Cancel Tournament</string>
+
+    <!-- Create Player -->
+    <string name="deck_prompt">Choose a deck option</string>
+
+    <string-array name="deck_arrays">
+        <item>Buzz</item>
+        <item>Engineer</item>
+        <item>RAT</item>
+        <item>Sideways</item>
+        <item>T</item>
+        <item>Wreck</item>
+    </string-array>
+
+    <!-- Shared Preferences -->
+    <string name="isTournamentActive">isTournamentActive</string>
+</resources>
